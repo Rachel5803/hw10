@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 version 1
-version 2
-version 3
 version 4
+=======
+version 1
+>>>>>>> parent of aaf9394 (version 2)
